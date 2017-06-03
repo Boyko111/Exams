@@ -10,6 +10,7 @@ namespace _01.LadyBugs
     {
         static void Main(string[] args)
         {
+            var input = int.Parse(Console.ReadLine());
         }
     }
 }
